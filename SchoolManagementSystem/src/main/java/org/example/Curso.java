@@ -57,6 +57,6 @@ public class Curso {
 
     @Override
     public String toString() {
-        return nombre + " (" +  version +")";
+        return "Curso: " + nombre + " (" + version + ")";
     }
 }
